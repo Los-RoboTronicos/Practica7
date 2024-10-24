@@ -44,9 +44,7 @@ Los resultados obtenidos fueron guardados en archivos de video, por lo que es im
 - **Uriel Vladimir Alvarez Tapia:** Mediante el comando pallet, se puede agilizar el proceso de creación de pallets permite agilizar la creacion de mallas para situaciones especificas de acomodo o de productos. Además de que el uso de ciclos *for* representa una fuerte optimización de recorrido de de esta matriz y genera un gran numero de puntos predefinidos.
 - 
 - **Miguel Angel Castañeda Garcia:** A lo largo del ejercicio, se definió una cuadrícula de puntos que representaban los píxeles individuales del dibujo, y el robot fue programado para moverse de manera ordenada por cada uno de los puntos correspondientes.
-El uso del comando "pallet" resultó ser fundamental para organizar el espacio de trabajo en una matriz regular, facilitando la programación al permitir el control eficiente del movimiento del robot entre filas y columnas. 
-
-La automatización de este proceso redujo significativamente el tiempo de desarrollo del proyecto, ya que solo fue necesario definir parámetros clave como las dimensiones de la matriz y el espaciamiento entre los puntos, en lugar de especificar manualmente cada posición.
+El uso del comando "pallet" resultó ser fundamental para organizar el espacio de trabajo en una matriz regular, facilitando la programación al permitir el control eficiente del movimiento del robot entre filas y columnas. La automatización de este proceso redujo significativamente el tiempo de desarrollo del proyecto, ya que solo fue necesario definir parámetros clave como las dimensiones de la matriz y el espaciamiento entre los puntos, en lugar de especificar manualmente cada posición.
 Además, el robot se desempeñó con precisión en la colocación de cada "píxel" en su lugar correspondiente, lo que permitió obtener un resultado final exacto y sin errores de posicionamiento. Esto demuestra cómo la combinación de programación avanzada y herramientas eficientes como el comando "pallet" puede transformar tareas complejas en procesos sencillos y repetibles.
 
 
